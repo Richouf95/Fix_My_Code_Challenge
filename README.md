@@ -1,4 +1,4 @@
-# Fix-my-code-0
+# Fix-my-code
 
 For this project, we will be revealing a series of challenges to fix bugs.
 
